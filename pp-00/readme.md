@@ -29,6 +29,7 @@ repository correctly.
    and write below the URL to your fork of the GitHub repository, and the add and commit:
 
    My Production Problems repository URL:
+   https://github.com/TylerTomasello/itmd-362-pp
 
 4. Next, push your commit to GitHub. `git push origin master` from your command line.
 
