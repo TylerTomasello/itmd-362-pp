@@ -26,8 +26,9 @@ could resemble sky or water. Last, a yellow to pop with the green and give it mo
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=3000u0kv3vO8cZSkWGnyXiMFQ0P  
+Your Rationale: I chose this because the colors are bright and keep kids attention on that.
+Also, provide the perfect red, green, and blue colors that are simple yet pop out.
 
 4. A custom color palette for advertising a course on cybersecurity
 
