@@ -15,12 +15,14 @@ Your Palette URL: http://paletton.com/#uid=1000u0k4vn300++00t9oVuKNA4u
 Your Rationale: Most gaming sites are split in the palettes, either they are dark or bright.
 For this I chose the bright because it pops and it has worked for Nintendo https://www.nintendo.com/switch/
 and Sony PlayStation https://www.playstation.com/en-us/explore/ps4/. So the way I set
-it up was with a bright background and bright colors for the foreground. 
+it up was with a bright background and bright colors for the foreground.
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=52O0R0kDDsV9fEwpcwFNblPX1cY  
+Your Rationale: I chose this because I felt that it would be best to use more colors
+that represent nature, so I started with green. And with this there is the blue, which
+could resemble sky or water. Last, a yellow to pop with the green and give it more accent.
 
 3. A triadic color palette for styling the login page for an app for kids to learn the alphabet
 
