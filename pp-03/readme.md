@@ -32,5 +32,7 @@ Also, provide the perfect red, green, and blue colors that are simple yet pop ou
 
 4. A custom color palette for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=12P0u0kzmKM82ZTfIZDz561DI2J  
+Your Rationale: I chose this because I feel like when people think of computers and
+security they think of command line. So most command line is either white and black, or
+green and black, so I chose the green and black to give it more than a black and white feel. 
