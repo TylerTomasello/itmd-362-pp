@@ -11,8 +11,11 @@ Opt for the Paletton Preview mode Default with Text http://paletton.com/
 
 1. A monochromatic color palette for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: http://paletton.com/#uid=1000u0k4vn300++00t9oVuKNA4u  
+Your Rationale: Most gaming sites are split in the palettes, either they are dark or bright.
+For this I chose the bright because it pops and it has worked for Nintendo https://www.nintendo.com/switch/
+and Sony PlayStation https://www.playstation.com/en-us/explore/ps4/. So the way I set
+it up was with a bright background and bright colors for the foreground. 
 
 2. An adjacent color palette for announcing springtime tours at the Chicago Botanical Gardens
 
