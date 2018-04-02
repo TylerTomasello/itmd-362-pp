@@ -27,9 +27,14 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
+* HCI Guidline One (URL):https://material.io/guidelines/components/bottom-navigation.html#bottom-navigation-usage
 
-* How you implemented it in your sketch:
+* How you implemented it in your sketch:  
+The problem with the myIIT site is that there is stuff just thrown on the page with
+no regard of what the content is and where to look for it. So having a navigation
+bar at the bottom of the page will work to organize the content and make it more
+accessible for the user. This is useful for both mobile and tablet/desktop users
+depending on the screen size.
 
 * HCI Guidline Two (URL):
 
