@@ -28,10 +28,13 @@ Small commits to your Production Problems repository that include:
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guidline One (URL):
+
 * How you implemented it in your sketch:
 
 * HCI Guidline Two (URL):
+
 * How you implemented it in your sketch:
 
 * HCI Guidline Three (URL):
+
 * How you implemented it in your sketch:
