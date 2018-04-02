@@ -36,9 +36,14 @@ bar at the bottom of the page will work to organize the content and make it more
 accessible for the user. This is useful for both mobile and tablet/desktop users
 depending on the screen size.
 
-* HCI Guidline Two (URL):
+* HCI Guidline Two (URL): https://material.io/guidelines/components/text-fields.html#text-fields-layout
 
-* How you implemented it in your sketch:
+* How you implemented it in your sketch:  
+Another problem with myIIT is that when a user logs in with their credentials and
+enters the wrong username or password it brings them to a different page telling them
+it is wrong and has a link back to the main page. For this, I thought about using the text
+fields and providing proper spacing and errors of what is wrong under the text field
+instead of taking them to a separate page.
 
 * HCI Guidline Three (URL):
 
