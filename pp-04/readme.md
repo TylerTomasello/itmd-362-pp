@@ -27,7 +27,7 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):https://material.io/guidelines/components/bottom-navigation.html#bottom-navigation-usage
+* HCI Guidline One (URL): https://material.io/guidelines/components/bottom-navigation.html#bottom-navigation-usage
 
 * How you implemented it in your sketch:  
 The problem with the myIIT site is that there is stuff just thrown on the page with
@@ -36,7 +36,7 @@ bar at the bottom of the page will work to organize the content and make it more
 accessible for the user. This is useful for both mobile and tablet/desktop users
 depending on the screen size.
 
-* HCI Guidline Two (URL): https://material.io/guidelines/components/text-fields.html#text-fields-layout
+* HCI Guidline Two (URL): https://material.io/guidelines/patterns/errors.html#errors-user-input-errors
 
 * How you implemented it in your sketch:  
 Another problem with myIIT is that when a user logs in with their credentials and
@@ -45,6 +45,9 @@ it is wrong and has a link back to the main page. For this, I thought about usin
 fields and providing proper spacing and errors of what is wrong under the text field
 instead of taking them to a separate page.
 
-* HCI Guidline Three (URL):
+* HCI Guidline Three (URL): https://material.io/guidelines/usability/accessibility.html#accessibility-hierarchy-focus
 
-* How you implemented it in your sketch:
+* How you implemented it in your sketch:  
+Another item that I thought could help with the design was the hierarchy of what is
+most important to least important. In addition, it goes with the navigation bar
+highlighting which page they are on, so they do not have to guess. 
