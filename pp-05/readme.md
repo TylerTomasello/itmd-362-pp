@@ -22,11 +22,11 @@ your own master usability checklist.
 
 1. Is there any white space, make sure not to overwhelm users.
 2. Font size and spacing is easy to read
-3. 
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+3. Navigation is consistent on every page
+4. Is color used properly, which should not be light on light colors, and same for dark on dark colors
+5. Are there helpful error messages
+6. Does the site render correctly on different screen resolutions
+7. Major headings are clear and descriptive
+8. Links are consistent and easy to identify
+9. Logo is linked to home page
+10. Design is consistent on all pages
