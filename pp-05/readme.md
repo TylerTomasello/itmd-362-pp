@@ -20,7 +20,7 @@ your own master usability checklist.
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
+1. Is there any white space, make sure not to overwhelm users.
 2.
 3.
 4.
