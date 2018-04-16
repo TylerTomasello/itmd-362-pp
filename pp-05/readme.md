@@ -21,8 +21,8 @@ your own master usability checklist.
 * Your own condensed, ten-item must-have usability checklist:
 
 1. Is there any white space, make sure not to overwhelm users.
-2.
-3.
+2. Font size and spacing is easy to read
+3. 
 4.
 5.
 6.
